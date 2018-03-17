@@ -28,3 +28,5 @@ func main() {
 
   fmt.Println(requestID) // you'd get something like:  niwVnfcOcmtWksDCNavCXeTdjWwBWZsC
 ```
+
+}
