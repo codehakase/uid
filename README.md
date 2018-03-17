@@ -27,6 +27,6 @@ func main() {
   requestID := uid.New(32) // Generates a 32 bit long random string
 
   fmt.Println(requestID) // you'd get something like:  niwVnfcOcmtWksDCNavCXeTdjWwBWZsC
-```
 
 }
+```
